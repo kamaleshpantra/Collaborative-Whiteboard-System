@@ -41,9 +41,9 @@ CollabDraw is a real-time collaborative drawing application built in Python usin
 
 ---
 
-## Screenshots
+## Screenshot
 <img src="Screenshot (134).png" alt="CollabDraw in action" width="500"/>  
-*(Screenshot of multiple users drawing together)*
+*(Screenshot of two users drawing together)*
 
 ---
 
